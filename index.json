@@ -23,6 +23,29 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "amy-carmichael-from-sunrise-land",
+      "type": "playlist",
+      "path": "Amy-Carmichael-From-Sunrise-Land.playlist.zip",
+      "name": "Amy Carmichael: From Sunrise Land",
+      "description": "Letters from Amy Carmichael's early missionary work in Japan before she settled in India. LibriVox's public-domain recording of From Sunrise Land, read by Expatriate.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "missions",
+        "amy-carmichael",
+        "japan",
+        "letters",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
