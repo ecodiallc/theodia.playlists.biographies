@@ -212,6 +212,30 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-life-of-david-brainerd",
+      "type": "playlist",
+      "path": "The-Life-Of-David-Brainerd.playlist.zip",
+      "name": "The Life of David Brainerd",
+      "description": "The diary and life of David Brainerd, pioneer missionary to the Native Americans, abridged from Jonathan Edwards's classic edition. LibriVox's public-domain recording, read by KHand.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "david-brainerd",
+        "jonathan-edwards",
+        "missions",
+        "native-americans",
+        "diary",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
