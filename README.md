@@ -12,6 +12,7 @@
 | `raymond-lull-first-missionary-to-the-moslems` | Raymond Lull: First Missionary to the Moslems |
 | `george-muller-of-bristol` | George Müller of Bristol |
 | `the-life-of-david-brainerd` | The Life of David Brainerd |
+| `john-g-paton-new-hebrides-autobiography-part-1` | John G. Paton, Missionary to the New Hebrides: An Autobiography, First Part |
 
 ## Sources
 
@@ -25,3 +26,4 @@
 - `raymond-lull-first-missionary-to-the-moslems`: LibriVox — [Raymond Lull: First Missionary to the Moslems by Samuel Zwemer](https://librivox.org/raymond-lull-first-missionary-to-the-moslems-by-samuel-zwemer/) ([Archive.org files](https://archive.org/details/raymondlull_2502_librivox)), public domain
 - `george-muller-of-bristol`: LibriVox — [George Müller of Bristol by Arthur T. Pierson](https://librivox.org/george-mueller-of-bristol-by-arthur-t-pierson/) ([Archive.org files](https://archive.org/details/georgemuller_1407_librivox)), public domain
 - `the-life-of-david-brainerd`: LibriVox — [The Life of David Brainerd by Jonathan Edwards and John Styles](https://librivox.org/the-life-of-david-brainerd-by-john-styles/) ([Archive.org files](https://archive.org/details/lifeofdavidbrainerd_2206_librivox)), public domain
+- `john-g-paton-new-hebrides-autobiography-part-1`: LibriVox — [John G. Paton, Missionary to the New Hebrides: An Autobiography; First Part by John Paton](https://librivox.org/john-g-paton-missionary-to-the-new-hebrides-an-autobiography-first-part-by-john-paton/) ([Archive.org files](https://archive.org/details/johngpatonmissionary_2512_librivox)), public domain

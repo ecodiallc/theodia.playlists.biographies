@@ -236,6 +236,31 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "john-g-paton-new-hebrides-autobiography-part-1",
+      "type": "playlist",
+      "path": "John-G-Paton-New-Hebrides-Autobiography-Part-1.playlist.zip",
+      "name": "John G. Paton, Missionary to the New Hebrides: An Autobiography, First Part",
+      "description": "John G. Paton's autobiography, First Part: Scotland, Glasgow city mission, and life and death on Tanna in the New Hebrides. LibriVox's public-domain recording, read by AletheiaCharis.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "autobiography",
+        "john-paton",
+        "missions",
+        "new-hebrides",
+        "tanna",
+        "pacific",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
