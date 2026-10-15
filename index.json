@@ -140,6 +140,30 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "henry-martyn-life-and-labors",
+      "type": "playlist",
+      "path": "Henry-Martyn-Life-And-Labors.playlist.zip",
+      "name": "The Life of Rev. Henry Martyn",
+      "description": "John Hall's biography of Henry Martyn, Church of England missionary to India and Persia and Bible translator. LibriVox's public-domain recording, read by Hannah Mary.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "henry-martyn",
+        "missions",
+        "india",
+        "persia",
+        "bible-translation",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }

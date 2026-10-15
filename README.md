@@ -8,6 +8,7 @@
 | `saint-francis-of-assisi-a-biography` | Saint Francis of Assisi: A Biography |
 | `the-life-of-saint-paul` | The Life of Saint Paul |
 | `robert-murray-mccheyne-biography` | The Biography of Robert Murray McCheyne |
+| `henry-martyn-life-and-labors` | The Life of Rev. Henry Martyn |
 
 ## Sources
 
@@ -17,3 +18,4 @@
 - `saint-francis-of-assisi-a-biography`: LibriVox — [Saint Francis of Assisi: A Biography by Johannes Jörgensen](https://librivox.org/saint-francis-of-assisi-a-biography-by-johannes-jorgensen/) ([Archive.org files](https://archive.org/details/saintfrancis_dv_librivox)), CC0
 - `the-life-of-saint-paul`: LibriVox — [The Life of Saint Paul by Frances Alice Forbes](https://librivox.org/the-life-of-saint-paul-by-frances-alice-forbes/) ([Archive.org files](https://archive.org/details/lifeofsaintpaul_1903_librivox)), public domain
 - `robert-murray-mccheyne-biography`: LibriVox — [The Biography of Robert Murray McCheyne by Andrew Bonar](https://librivox.org/the-biography-of-robert-murray-mccheyne-by-andrew-bonar/) ([Archive.org files](https://archive.org/details/biographyofrobertmurraymccheyne_2606_librivox)), public domain
+- `henry-martyn-life-and-labors`: LibriVox — [The Life of Rev. Henry Martyn by John Hall](https://librivox.org/the-life-of-rev-henry-martyn-by-john-hall/) ([Archive.org files](https://archive.org/details/henrymartyn_1810_librivox)), public domain
