@@ -94,6 +94,29 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-life-of-saint-paul",
+      "type": "playlist",
+      "path": "The-Life-Of-Saint-Paul.playlist.zip",
+      "name": "The Life of Saint Paul",
+      "description": "A short biography of Saint Paul, the Apostle of the Gentiles, from persecutor to missionary to martyr. LibriVox's public-domain recording of Frances Alice Forbes's biography.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "saint-paul",
+        "apostle",
+        "bible",
+        "acts",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
