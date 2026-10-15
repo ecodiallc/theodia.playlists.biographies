@@ -46,6 +46,30 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "amy-carmichael-lotus-buds",
+      "type": "playlist",
+      "path": "Amy-Carmichael-Lotus-Buds.playlist.zip",
+      "name": "Amy Carmichael: Lotus Buds",
+      "description": "Amy Carmichael's account of her work among the girls of India at Dohnavur, the \"Lotus Buds.\" LibriVox's public-domain recording of Lotus Buds.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "missions",
+        "amy-carmichael",
+        "india",
+        "dohnavur",
+        "children",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
