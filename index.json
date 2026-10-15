@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-14T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "hudson-taylor-a-retrospect",
+      "type": "playlist",
+      "path": "Hudson-Taylor-A-Retrospect.playlist.zip",
+      "name": "Hudson Taylor: A Retrospect",
+      "description": "Hudson Taylor's autobiographical account of his calling and life work in China as founder of the China Inland Mission. All twenty chapters of LibriVox's public-domain recording of A Retrospect.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "missions",
+        "hudson-taylor",
+        "china-inland-mission",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
+    }
+  ]
+}
