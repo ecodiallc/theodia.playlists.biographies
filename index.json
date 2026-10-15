@@ -188,6 +188,30 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "george-muller-of-bristol",
+      "type": "playlist",
+      "path": "George-Muller-Of-Bristol.playlist.zip",
+      "name": "George Müller of Bristol",
+      "description": "Arthur T. Pierson's biography of George Müller, who cared for thousands of Bristol orphans by prayer and faith alone. LibriVox's public-domain recording, read by Dave Harrell.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "george-muller",
+        "orphans",
+        "bristol",
+        "prayer",
+        "faith",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }

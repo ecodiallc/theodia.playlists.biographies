@@ -10,6 +10,7 @@
 | `robert-murray-mccheyne-biography` | The Biography of Robert Murray McCheyne |
 | `henry-martyn-life-and-labors` | The Life of Rev. Henry Martyn |
 | `raymond-lull-first-missionary-to-the-moslems` | Raymond Lull: First Missionary to the Moslems |
+| `george-muller-of-bristol` | George Müller of Bristol |
 
 ## Sources
 
@@ -21,3 +22,4 @@
 - `robert-murray-mccheyne-biography`: LibriVox — [The Biography of Robert Murray McCheyne by Andrew Bonar](https://librivox.org/the-biography-of-robert-murray-mccheyne-by-andrew-bonar/) ([Archive.org files](https://archive.org/details/biographyofrobertmurraymccheyne_2606_librivox)), public domain
 - `henry-martyn-life-and-labors`: LibriVox — [The Life of Rev. Henry Martyn by John Hall](https://librivox.org/the-life-of-rev-henry-martyn-by-john-hall/) ([Archive.org files](https://archive.org/details/henrymartyn_1810_librivox)), public domain
 - `raymond-lull-first-missionary-to-the-moslems`: LibriVox — [Raymond Lull: First Missionary to the Moslems by Samuel Zwemer](https://librivox.org/raymond-lull-first-missionary-to-the-moslems-by-samuel-zwemer/) ([Archive.org files](https://archive.org/details/raymondlull_2502_librivox)), public domain
+- `george-muller-of-bristol`: LibriVox — [George Müller of Bristol by Arthur T. Pierson](https://librivox.org/george-muller-of-bristol-by-arthur-t-pierson/) ([Archive.org files](https://archive.org/details/georgemuller_1407_librivox)), public domain
