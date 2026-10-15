@@ -7,6 +7,7 @@
 | `amy-carmichael-lotus-buds` | Amy Carmichael: Lotus Buds |
 | `saint-francis-of-assisi-a-biography` | Saint Francis of Assisi: A Biography |
 | `the-life-of-saint-paul` | The Life of Saint Paul |
+| `robert-murray-mccheyne-biography` | The Biography of Robert Murray McCheyne |
 
 ## Sources
 
@@ -15,3 +16,4 @@
 - `amy-carmichael-lotus-buds`: LibriVox — [Lotus Buds by Amy Wilson Carmichael](https://librivox.org/lotus-buds-by-amy-wilson-carmichael/) ([Archive.org files](https://archive.org/details/lotus_buds_1807_librivox)), public domain
 - `saint-francis-of-assisi-a-biography`: LibriVox — [Saint Francis of Assisi: A Biography by Johannes Jörgensen](https://librivox.org/saint-francis-of-assisi-a-biography-by-johannes-jorgensen/) ([Archive.org files](https://archive.org/details/saintfrancis_dv_librivox)), CC0
 - `the-life-of-saint-paul`: LibriVox — [The Life of Saint Paul by Frances Alice Forbes](https://librivox.org/the-life-of-saint-paul-by-frances-alice-forbes/) ([Archive.org files](https://archive.org/details/lifeofsaintpaul_1903_librivox)), public domain
+- `robert-murray-mccheyne-biography`: LibriVox — [The Biography of Robert Murray McCheyne by Andrew Bonar](https://librivox.org/the-biography-of-robert-murray-mccheyne-by-andrew-bonar/) ([Archive.org files](https://archive.org/details/biographyofrobertmurraymccheyne_2606_librivox)), public domain

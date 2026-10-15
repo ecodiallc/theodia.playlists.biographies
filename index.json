@@ -117,6 +117,29 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "robert-murray-mccheyne-biography",
+      "type": "playlist",
+      "path": "Robert-Murray-McCheyne-Biography.playlist.zip",
+      "name": "The Biography of Robert Murray McCheyne",
+      "description": "Andrew Bonar's biography of Robert Murray McCheyne, Scottish minister and missionary to Palestine and the Jews. LibriVox's public-domain recording, read by Douglas Allen.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "robert-murray-mccheyne",
+        "scotland",
+        "missions",
+        "revival",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
