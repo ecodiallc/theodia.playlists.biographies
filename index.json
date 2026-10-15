@@ -70,6 +70,30 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "saint-francis-of-assisi-a-biography",
+      "type": "playlist",
+      "path": "Saint-Francis-Of-Assisi-A-Biography.playlist.zip",
+      "name": "Saint Francis of Assisi: A Biography",
+      "description": "Johannes Jorgensen's classic biography of Francis of Assisi, from conversion through the founding of the Franciscan Order to the stigmata and his death. LibriVox's CC0 recording, read by Dave7.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "saint-francis",
+        "assisi",
+        "franciscan",
+        "catholic",
+        "public-domain",
+        "cc0",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
