@@ -164,6 +164,30 @@
         "librivox"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "raymond-lull-first-missionary-to-the-moslems",
+      "type": "playlist",
+      "path": "Raymond-Lull-First-Missionary-To-The-Moslems.playlist.zip",
+      "name": "Raymond Lull: First Missionary to the Moslems",
+      "description": "Samuel Zwemer's biography of Raymond Lull, medieval Franciscan philosopher and missionary to North Africa who died a martyr. LibriVox's public-domain recording, read by AletheiaCharis.",
+      "author": "LibriVox",
+      "category": "Biography",
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "audio",
+        "biography",
+        "raymond-lull",
+        "medieval",
+        "missions",
+        "martyr",
+        "north-africa",
+        "public-domain",
+        "librivox"
+      ],
+      "version": "1.0.0"
     }
   ]
 }
